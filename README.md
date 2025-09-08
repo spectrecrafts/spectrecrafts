@@ -6,12 +6,12 @@ Currently working at the intersection of **backend engineering, distributed syst
 ---
 
 ## 🚀 About Me
-- 🛠️ Experienced in **Node.js, Rust, Go, and Python**  
 - ☁️ Building with **AWS | Kubernetes | Docker | Redis | Kafka**  
 - 🔐 Passionate about **APIs and distributed systems**  
-- 📖 Always exploring new architectures & emerging tech  
+- ⚡ Focused on **system design, scalability, and performance optimization**  
+- 🧩 Love working on **complex infra and backend challenges**  
+- 🌍 Interested in **open-source, fintech, and cloud-native ecosystems**  
 
----
 
 ## 🧰 Tech Stack
 
