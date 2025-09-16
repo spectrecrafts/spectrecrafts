@@ -41,7 +41,7 @@ Currently working at the intersection of **backend engineering, distributed syst
   - Client-side **Solana** integration for transactions  
   - **Cloudinary CDN** for efficient image storage & delivery  
 
-- 📝 **[BlogX](https://github.com/spectrecrafts/blogx)**  
+- 📝 **[BlogX](https://github.com/spectrecrafts/medium-clone)**  
   A **Medium clone** for creating and sharing blogs.  
   - Built with **React + Node.js**  
   - Focused on clean, modern UI and maintainable backend  
