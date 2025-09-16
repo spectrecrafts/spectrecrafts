@@ -36,7 +36,7 @@ Currently working at the intersection of **backend engineering, distributed syst
   - Integrated **Redis** for caching & queues  
   - Clean backend architecture ensuring maintainability  
 
-- 🌐 **[Pickpal](https://github.com/spectrecrafts/turkify)**  
+- 🌐 **[Pickpal](https://github.com/spectrecrafts/decentralized_fiver)**  
   A decentralized platform to **upload and complete tasks for money**.  
   - Client-side **Solana** integration for transactions  
   - **Cloudinary CDN** for efficient image storage & delivery  
