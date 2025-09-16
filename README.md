@@ -15,7 +15,7 @@ Currently working at the intersection of **backend engineering, distributed syst
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**  
-`Rust` · `Node.js` · `TypeScript` · `JavaScript` · `Python` · `Java` · `C++`  
+`Rust` · `Node.js` · `TypeScript` · `JavaScript` · `Python` · `C++`  
 `React` · `Next.js` · `Express.js` · `FastAPI` · `GraphQL`  
 
 **Infrastructure & Tools**  
