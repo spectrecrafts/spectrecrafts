@@ -51,7 +51,6 @@ Currently working at the intersection of **backend engineering, distributed syst
 ## 📊 GitHub Stats
 ![Spectre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spectrecrafts&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectrecrafts&layout=compact&theme=radical)  
 
 ---
 
