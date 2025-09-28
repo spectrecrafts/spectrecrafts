@@ -28,23 +28,6 @@ Currently working at the intersection of **backend engineering, distributed syst
 `Solana` · `Web3.js`   
 
 
-## 📂 Featured Projects
-
-- 🔗 **[Payzee](https://github.com/spectrecrafts/payzee)**  
-  A complete solution to accept **crypto payments via gateway**.  
-  - Built with **microservices architecture** for scalability  
-  - Integrated **Redis** for caching & queues  
-  - Clean backend architecture ensuring maintainability  
-
-- 🌐 **[Pickpal](https://github.com/spectrecrafts/decentralized_fiver)**  
-  A decentralized platform to **upload and complete tasks for money**.  
-  - Client-side **Solana** integration for transactions  
-  - **Cloudinary CDN** for efficient image storage & delivery  
-
-- 📝 **[BlogX](https://github.com/spectrecrafts/medium-clone)**  
-  A **Medium clone** for creating and sharing blogs.  
-  - Built with **React + Node.js**  
-  - Focused on clean, modern UI and maintainable backend  
 
 ---
 
