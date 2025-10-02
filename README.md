@@ -32,7 +32,7 @@ Currently working at the intersection of **backend engineering, distributed syst
 ---
 
 ## 📊 GitHub Stats
-![Spectre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spectrecrafts&show_icons=true&theme=radical)  
+![Spectre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxspectre&show_icons=true&theme=radical)  
 
 
 ---
